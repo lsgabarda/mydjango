@@ -1,4 +1,5 @@
 # mydjango
 ```
-Sample
+Clone the project
+
 ```
